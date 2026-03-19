@@ -9,11 +9,11 @@ The project focuses on modern UI design, responsiveness, and utility-first CSS s
 
  1. Clone the repository:
    
-   git clone https://github.com/RAHULKR00123/tailwindproject
+   git clone https://github.com/raoamitkumar01/tailwind-project-1/tree/main
 
 2. Open the project folder:
    
-   cd tailwindproject
+   cd tailwind-project-1
 3. Open index.html in your browser
 
 ## Features
